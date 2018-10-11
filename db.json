@@ -195,5 +195,137 @@
 	"Omega16": {
 			"model":"AQUA TERRA 65M ",
 			"price":"9700 EUR"
+	},
+
+
+	"Cartier1":{
+		"model":"Cartire Calibra De Silver",
+		"price":"4500 EUR"
+	},
+	"Cartier2":{
+		"model":"Cartire Calibra De Diver 200M",
+		"price":"7500 EUR"
+	},
+	"Cartier3":{
+		"model":"Cartier Drive Automatic Sivered",
+		"price":"5600 EUR"
+	},
+	"Cartier4":{
+		"model":"Cartier Tank Louis 18kt Yellow",
+		"price":"8000 EUR"
+	},
+	"Cartier5":{
+		"model":"Cartier Ballon Bleu Automatic",
+		"price":"5300 EUR"
+	},
+	"Cartier6":{
+		"model":"Cartier Drive De Cartier Automatic",
+		"price":"7400 EUR"
+	},
+	"Cartier7":{
+		"model":"Cartier Calibre Drive Automatic",
+		"price":"7110 EUR"
+	},
+	"Cartier8":{
+		"model":"Cartier Dive De Moonphase",
+		"price":"6900 EUR"
+	},
+	"Cartier9":{
+		"model":"Cartier Ballon Bleu Automatic",
+		"price":"6300 EUR"
+	},
+	"Cartier10":{
+		"model":"Cartier Ballon Bleu Automatic 18kt",
+		"price":"6800 EUR"
+	},
+	"Cartier11":{
+		"model":"Cartier Ronde Croisiere Automatic",
+		"price":"4600 EUR"
+	},
+	"Cartier12":{
+		"model":"Cartier Ronde Solo Silver",
+		"price":"3000 EUR"
+	},
+	"Cartier13":{
+		"model":"Cartier Ronde Solo De Cartier",
+		"price":"8000 EUR"
+	},
+	"Cartier14":{
+		"model":"Cartier Calibre De Automatic",
+		"price":"18900 EUR"
+	},
+	"Cartier15":{
+		"model":"Cartier Ballon Bleu Large",
+		"price":"13600 EUR"
+	},
+	"Cartier16":{
+		"model":"Cartier Ballon Bleu Moonphase",
+		"price":"6500 EUR"
+	},
+
+
+	"Bvlgari1":{
+		"model":"Octo Finissimo Automatic",
+		"price":"12000 EUR"
+	},
+	"Bvlgari2":{
+		"model":"Octo Finissimo Turbillon",
+		"price":"10500 EUR"
+	},
+	"Bvlgari3":{
+		"model":"Octo Finissimo 1550D 18K",
+		"price":"22000 EUR"
+	},
+	"Bvlgari4":{
+		"model":"Octo Finissimo Turbillon 18kt",
+		"price":"25000 EUR"
+	},
+	"Bvlgari5":{
+		"model":"Octo Roma 310 AD",
+		"price":"6500 EUR"
+	},
+	"Bvlgari6":{
+		"model":"Octo Roma 15th",
+		"price":"5600 EUR"
+	},
+	"Bvlgari7":{
+		"model":"Octo Roma Silver",
+		"price":"5500 EUR"
+	},
+	"Bvlgari8":{
+		"model":"Octo Roma 18kt",
+		"price":"6100 EUR"
+	},
+	"Bvlgari9":{
+		"model":"Octo Solotempo",
+		"price":"6100 EUR"
+	},
+	"Bvlgari10":{
+		"model":"Octo Solo 50C",
+		"price":"6100 EUR"
+	},
+	"Bvlgari11":{
+		"model":"Octo Brilliant",
+		"price":"28100 EUR"
+	},
+	"Bvlgari12":{
+		"model":"Octo Maserati",
+		"price":"9500 EUR"
+	},
+	"Bvlgari13":{
+		"model":"Serpenti Turbogas",
+		"price":"35700 EUR"
+	},
+	"Bvlgari14":{
+		"model":"Serpenti Turbogas2t",
+		"price":"11400 EUR"
+	},
+	"Bvlgari15":{
+		"model":"Serpenti Turbogas1t",
+		"price":"7300 EUR"
+	},
+	"Bvlgari16":{
+		"model":"Serpenti Turbogas18c",
+		"price":"25500 EUR"
 	}
 }

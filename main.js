@@ -13,26 +13,26 @@ app.get('/', (req, res)=>{
 });
 
 app.get('/brend1', (req, res)=>{
-	res.render('brend1', {title:'Rolex/LUXURY WATCH BRANDS', db: db});
+	res.render('brend1', {title:'LUXURY WATCH BRANDS/Rolex', db: db});
 	res.end();
 });
 
 app.get('/brend2', (req, res)=>{
-	res.render('brend2', {title:'Hublot/LUXURY WATCH BRANDS', db: db});
+	res.render('brend2', {title:'LUXURY WATCH BRANDS/Hublot', db: db});
 	res.end();
 });
 
 app.get('/brend3', (req, res)=>{
-	res.render('brend3', {title:'Omega/LUXURY WATCH BRANDS', db: db});
+	res.render('brend3', {title:'LUXURY WATCH BRANDS/Omega', db: db});
 	res.end();
 });
 
 app.get('/brend4', (req, res)=>{
-	res.render('brend4', {title:'Cartier/LUXURY WATCH BRANDS', db: db});
+	res.render('brend4', {title:'LUXURY WATCH BRANDS/Cartier', db: db});
 	res.end();
 });
 
 app.get('/brend5', (req, res)=>{
-	res.render('brend5', {title:'Bvlgari/LUXURY WATCH BRANDS', db: db});
+	res.render('brend5', {title:'LUXURY WATCH BRANDS/Bvlgari', db: db});
 	res.end();
 });
