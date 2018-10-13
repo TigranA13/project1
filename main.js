@@ -28,11 +28,11 @@ app.get('/brend3', (req, res)=>{
 });
 
 app.get('/brend4', (req, res)=>{
-	res.render('brend4', {title:'LUXURY WATCH BRANDS/Cartier', db: db});
+	res.render('brend4', {title:'LUXURY WATCH BRANDS/Omega', db: db});
 	res.end();
 });
 
 app.get('/brend5', (req, res)=>{
-	res.render('brend5', {title:'LUXURY WATCH BRANDS/Bvlgari', db: db});
+	res.render('brend5', {title:'LUXURY WATCH BRANDS/Omega', db: db});
 	res.end();
 });
