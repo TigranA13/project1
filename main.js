@@ -36,3 +36,8 @@ app.get('/brend5', (req, res)=>{
 	res.render('brend5', {title:'LUXURY WATCH BRANDS/Omega', db: db});
 	res.end();
 });
+
+app.get('/cart', (req, res)=>{
+	res.render('cart', {title:'LUXURY WATCH BRANDS', db: db});
+	res.end();
+});
