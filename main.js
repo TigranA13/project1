@@ -37,7 +37,3 @@ app.get('/brend5', (req, res)=>{
 	res.end();
 });
 
-app.get('/cart', (req, res)=>{
-	res.render('cart', {title:'LUXURY WATCH BRANDS', db: db});
-	res.end();
-});
