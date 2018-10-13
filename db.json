@@ -340,6 +340,86 @@
 
 	"Bvlgari":[
 
+		{
+			"img":"",
+			"model":"Octo Finissimo Automatic",
+			"price":"12000 EUR"
+		},
+		{
+			"img":"",
+			"model":"Octo Finissimo Turbillon",
+			"price":"10500 EUR"
+		},
+		{
+			"img":"",
+			"model":"Octo Finissimo 1550D 18K",
+			"price":"22000 EUR"
+		},
+		{
+			"img":"",
+			"model":"Octo Finissimo Turbillon 18kt",
+			"price":"25000 EUR"
+		},
+		{
+			"img":"",
+			"model":"Octo Roma 310 AD",
+			"price":"6500 EUR"
+		},
+		{
+			"img":"",
+			"model":"Octo Roma 15th",
+			"price":"5600 EUR"
+		},
+		{
+			"img":"",
+			"model":"Octo Roma Silver",
+			"price":"5500 EUR"
+		},
+		{
+			"img":"",
+			"model":"Octo Roma 18kt",
+			"price":"6100 EUR"
+		},
+		{
+			"img":"",
+			"model":"Octo Solotempo",
+			"price":"6100 EUR"
+		},
+		{
+			"img":"",
+			"model":"Octo Solo 50C",
+			"price":"6100 EUR"
+		},
+		{
+			"img":"",
+			"model":"Octo Brilliant",
+			"price":"28100 EUR"
+		},
+		{
+			"img":"",
+			"model":"Octo Maserati",
+			"price":"9500 EUR"
+		},
+		{
+			"img":"",
+			"model":"Serpenti Turbogas",
+			"price":"35700 EUR"
+		},
+		{
+			"img":"",
+			"model":"Serpenti Turbogas2t",
+			"price":"11400 EUR"
+		},
+		{
+			"img":"",
+			"model":"Serpenti Turbogas1t",
+			"price":"7300 EUR"
+		},
+		{
+			"img":"",
+			"model":"Serpenti Turbogas18c",
+			"price":"25500 EUR"
+		}
 	] 
 		
 }
