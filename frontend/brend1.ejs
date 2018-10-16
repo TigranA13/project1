@@ -1,12 +1,29 @@
 <%- include('header')%>
-
+	
  	<div class="container">
 
 	  	<div class="row justify-content-center">
 	  		<% db.Rolex.forEach(function(watch){ %>
+
 				<div class="card text-white bg-dark text-center" style="width: 16rem; margin: 10px;">
 					
-					  <img class="card-img-top img-fluid" src="<%= watch.img %>" alt="Card image cap">
+					 <a href="#" data-toggle="modal" data-target="#exampleModalCenter<%= watch.id %>1"><img class="card-img-top img-fluid zoom" src="<%= watch.img %>" alt="Card image cap"></a>
+
+					  <div class="modal fade"  id="exampleModalCenter<%= watch.id %>1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+					  <div class="modal-dialog modal-dialog-centered" role="document">
+					    <div class="modal-content bg-transparent border-0">
+					      <div class="modal-header text-transparent border-0">
+					        <button type="button" class="close text-white" data-dismiss="modal" >
+					          <span aria-hidden="true">X</span>
+					        </button>
+					      </div>
+					      <div class="modal-body">
+					       <img class="card-img-top img-fluid" src="<%= watch.img %>" alt="Card image cap">
+					      </div>
+					    </div>
+					  </div>
+					</div>
+
 					  <div class="card-body">
 					  <h5 class="card-title"><%= watch.model %></h5>
 					  <p class="card-text"><%= watch.price %></p>
@@ -18,7 +35,7 @@
 					    <div class="modal-content  bg-dark">
 					      <div class="modal-header">
 					        <h5 class="modal-title" id="exampleModalCenterTitle"><%= watch.model %></h5>
-					        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					        <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
 					          <span aria-hidden="true">&times;</span>
 					        </button>
 					      </div>
@@ -37,7 +54,7 @@
 				</div>
 			<% })%>
 		</div>
-		
+
  	</div>
 
 <%- include('footer')%>
